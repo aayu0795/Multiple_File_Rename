@@ -1,4 +1,4 @@
-Multiple_File_Rename.py
+# Multiple_File_Rename.py
 
 Python Script To Rename All The Files In A Folder
 
